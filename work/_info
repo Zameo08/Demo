@@ -1,0 +1,114 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Project Verilog draft/Code
+T_opt
+!s110 1703219457
+Vn5972li>RM1CRi[:akBI<3
+04 27 4 work fir_shift_reg_RAM_AUTO_1R1W fast 0
+=1-60189529a6d6-65851101-6f-3438
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.5;63
+R0
+T_opt1
+!s110 1703219819
+VGhk<7W0EdPHg26`?NT5kZ0
+04 3 4 work fir fast 0
+=1-60189529a6d6-6585126b-37e-2560
+R1
+R2
+n@_opt1
+R3
+vfir
+Z4 !s110 1703219612
+!i10b 1
+!s100 CVX58U=:RlM;OX_<91VAQ1
+ISi5nReD^9?[82okg[SXL90
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/draft
+Z7 w1703214959
+8D:/draft/fir.v
+FD:/draft/fir.v
+L0 12
+Z8 OL;L;10.5;63
+r1
+!s85 0
+31
+Z9 !s108 1703219612.000000
+!s107 D:/draft/fir.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/draft/fir.v|
+!i113 0
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vfir_flow_control_loop_pipe
+R4
+!i10b 1
+!s100 ;mRFO^6Fhf7Kg6j5A5O<=3
+I>S@Ggl[gMfIHVXcABm=L81
+R5
+R6
+R7
+8D:/draft/fir_flow_control_loop_pipe.v
+FD:/draft/fir_flow_control_loop_pipe.v
+L0 9
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/draft/fir_flow_control_loop_pipe.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/draft/fir_flow_control_loop_pipe.v|
+!i113 0
+R10
+R2
+vfir_mul_32s_32s_32_2_1
+R4
+!i10b 1
+!s100 <`3GAdM01ndDzaPUW0FHU3
+ILB4XL<8em59beJlF1jVkn1
+R5
+R6
+R7
+8D:/draft/fir_mul_32s_32s_32_2_1.v
+FD:/draft/fir_mul_32s_32s_32_2_1.v
+L0 9
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/draft/fir_mul_32s_32s_32_2_1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/draft/fir_mul_32s_32s_32_2_1.v|
+!i113 0
+R10
+R2
+vfir_shift_reg_RAM_AUTO_1R1W
+R4
+!i10b 1
+!s100 QLTnKK9dB^>4`WmCGoWi03
+ILM9i=GPnSVZ1gYlMb18T60
+R5
+R6
+R7
+8D:/draft/fir_shift_reg_RAM_AUTO_1R1W.v
+FD:/draft/fir_shift_reg_RAM_AUTO_1R1W.v
+L0 7
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/draft/fir_shift_reg_RAM_AUTO_1R1W.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/draft/fir_shift_reg_RAM_AUTO_1R1W.v|
+!i113 0
+R10
+R2
+nfir_shift_reg_@r@a@m_@a@u@t@o_1@r1@w
